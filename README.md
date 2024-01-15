@@ -9,8 +9,8 @@ Pass: henriquebadaroportugal
 
 How to connect Linux server(157.245.220.115) of root when the password is 1senhaBasica by local windows vs code through SSH.
 
-Thursday, October 5, 2023
-11:35 PM
+Thursday, October 15, 2024
+07:30 AM
 
 
 To connect to a Linux server with root access using SSH from a local Windows machine via Visual Studio Code, you can follow these steps:
